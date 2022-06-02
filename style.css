@@ -1,0 +1,50 @@
+h1 {
+    font-size: 47px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(132, 243, 219);
+    font-style: normal;
+    text-align: left;
+}
+ 
+img {
+height: 40px;
+padding: 0%;
+
+}
+
+.dos {
+    height: 29px ;
+    margin: 5px;
+    
+}
+
+
+.celu {
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: 15px;
+}
+
+.mail{
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: 15px;
+}
+
+.qs{ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(142, 243, 219);
+    
+}
+
+div p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: none;
+
+}
+.fuente{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div p , div span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+}
